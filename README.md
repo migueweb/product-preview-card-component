@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Product preview card component](https://migueweb.github.io/frontend-mentor-challenges/challenges/newbie/product-preview-card-component/)
+- Live Site URL: [migueweb.github.io/product-preview-card-component/](https://migueweb.github.io/product-preview-card-component/)
 
 ## My process
 
